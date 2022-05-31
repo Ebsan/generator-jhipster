@@ -65,7 +65,7 @@
         "faker": "5.1.0",
         "find-up": "5.0.0",
         "glob": "7.1.6",
-        "gulp-filter": "6.0.0",
+        "gulp-filter": "7.0.0",
         "insight": "0.10.3",
         "js-yaml": "3.14.0",
         "lodash": "4.17.20",
